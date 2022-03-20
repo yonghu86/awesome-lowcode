@@ -86,6 +86,7 @@
   * [平台简介](https://www.gadmin8.com/index/about.html)
   * [平台演示](https://demo.gadmin8.com/)
 * [象传智慧](https://www.iqka.com/docs/?engine)
+* 国思软件RDIFramework.NET(http://www.rdiframework.net/)
   * [Yao](https://yaoapps.com/)
 * [引迈信息](https://www.jnpfsoft.com/)
   
